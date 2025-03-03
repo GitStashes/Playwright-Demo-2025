@@ -1,0 +1,22 @@
+{
+  "name": "playwright-demo-2025",
+  "version": "1.0.0",
+  "description": "This is short demo for testing BM-Hub",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitStashes/Playwright-Demo-2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitStashes/Playwright-Demo-2025/issues"
+  },
+  "homepage": "https://github.com/GitStashes/Playwright-Demo-2025#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.8"
+  }
+}
